@@ -11,6 +11,10 @@ body {
     font-family: 'Epilogue', sans-serif;
 }
 
+.not-visible {
+    visibility: hidden;
+}
+
 .margin {
     margin-top: 10rem;
 }
